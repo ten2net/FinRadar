@@ -1,0 +1,5 @@
+.cache/
+workspace/
+github
+__pycache__
+.env
